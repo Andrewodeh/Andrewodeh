@@ -1,13 +1,3 @@
-<head>
-  <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
-  <style>
-    body {
-      font-family: 'Lato', sans-serif;
-    }
-  </style>
-</head>
-
-<div style="font-family: 'Lato', sans-serif;">
 
 # Andrew Odeh
 
@@ -39,4 +29,4 @@ Aspiring software engineer passionate about building transparent and efficient s
 ## Goals
 Interested in FinTech SaaS solutions, database-driven applications, and scalable platforms that make an impact.  
 
-</div>
+
