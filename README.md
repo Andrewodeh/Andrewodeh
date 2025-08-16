@@ -4,7 +4,7 @@
 Aspiring software engineer passionate about building transparent and efficient software solutions.  
 
 ## Technical Skills
-- Languages: Java, C, MySQL  
+- Languages: Java, C, MySQL, html, css, TypeScript, JavaScript
 - Strong foundation in data structures, algorithms, and database systems  
 - Experienced in modeling and designing software systems  
 
